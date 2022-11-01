@@ -144,7 +144,7 @@ void IsPosNeg(int value) {
         cout << "\n" << number << " is negative.";
     }
     else if (value > 0) {
-        cout << "\n" << number << "This number is positive.";
+        cout << "\n" << number << " is positive.";
     }
     else {
         cout << "\nThis number is 0.";
