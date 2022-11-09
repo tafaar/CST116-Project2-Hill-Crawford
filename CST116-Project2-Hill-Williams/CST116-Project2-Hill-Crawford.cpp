@@ -1,4 +1,4 @@
-// cst-116-Project2-Hill.cpp : Aaron Hill and Joe Williams
+// cst-116-Project2-Hill.cpp : Aaron Hill and Lloyd Crawford
 //
 
 #include <iostream>

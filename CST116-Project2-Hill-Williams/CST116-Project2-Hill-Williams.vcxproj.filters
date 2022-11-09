@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CST116-Project2-Hill-Williams.cpp">
+    <ClCompile Include="CST116-Project2-Hill-Crawford.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
